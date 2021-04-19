@@ -1,0 +1,789 @@
+{
+  "1": {
+    "academic": true,
+    "citations": 3,
+    "countries": [
+      "Brazil"
+    ],
+    "fields": [
+      "Continuum software infrastructure",
+      "middleware",
+      "web services",
+      "distributed service oriented architecture",
+      "ubiquitous computing",
+      "follow-me semantics",
+      "Continuum framework"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "Instituto de Informática",
+      "Universidade Federal do Rio Grande do Sul (UFRGS)",
+      "Porto Alegre, Brazil",
+      "Instituto de Informática, Universidade do Vale do Rio dos Sinos (UNISINOS), São Leopoldo, Brazil",
+      "Escola de Informática, Universidade Católica de Pelotas (UCPEL), Pelotas, Brazil"
+    ],
+    "nature": [
+      "framework",
+      "concept"
+    ],
+    "technologies": [
+      "CoDSA (Continuum Distributed Service Architecture)",
+      "CoApp container"
+    ]
+  },
+  "2": {
+    "academic": false,
+    "citations": 2,
+    "countries": [
+      "Italy",
+      "Greece",
+      "France",
+      "Italy",
+      "Norway"
+    ],
+    "fields": [
+      "reliability",
+      "embedded systems",
+      "high performance computing"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": true,
+    "institutions": [
+      "Politecnico di Torino, Italy",
+      "University of Athens, Greece",
+      "LIRMM (Universit Montpellier II / CNRS UMR 5506), France",
+      "Thales Research and Technology, France",
+      "Yogitech, Italy",
+      "ABB Corporate Research, Norway"
+    ],
+    "nature": [
+      "framework"
+    ],
+    "technologies": [
+      "Clereco Framework"
+    ]
+  },
+  "3": {
+    "academic": false,
+    "citations": 31,
+    "countries": [
+      "na"
+    ],
+    "fields": [
+      "fog computing, edge computIng"
+    ],
+    "format": "paper",
+    "independent": true,
+    "industry": false,
+    "institutions": [
+      "IEEE Communications Magazine "
+    ],
+    "nature": [
+      "tutorial"
+    ],
+    "technologies": []
+  },
+  "4": {
+    "academic": true,
+    "citations": 3,
+    "countries": [
+      "USA"
+    ],
+    "fields": [
+      "Continuum computing",
+      "Data-driven workflow",
+      "In-transit Computing",
+      "Programmable Distributed Infrastructure"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "Rutgers Discovery Informatics Institute",
+      "Rutgers University, Piscataway, NJ  08854, USA"
+    ],
+    "nature": [
+      "framework",
+      "concept"
+    ],
+    "technologies": [
+      "Associative Rendezvous (AR) interaction model",
+      "associative rendezvous messaging substrate (ARMS)",
+      "Apache Kafka",
+      "Apache Storm",
+      "CometCloud autonomic framework",
+      "OpenFlow",
+      "SDN Router"
+    ]
+  },
+  "5": {
+    "academic": true,
+    "citations": 0,
+    "countries": [
+      "UK"
+    ],
+    "fields": [
+      "fog computing",
+      "Network Functions Virtualisation",
+      "network services/security"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "School of Computing and Communications, Lancaster University, UK"
+    ],
+    "nature": [
+      "platform"
+    ],
+    "technologies": [
+      "Siren",
+      "OpenFlow",
+      "Snort",
+      "PiHole",
+      "NGINX"
+    ]
+  },
+  "6": {
+    "academic": true,
+    "citations": 13,
+    "countries": [
+      "Brazil",
+      "UK",
+      "Portugal",
+      "Ireland",
+      "USA"
+    ],
+    "fields": [
+      "Internet of Things (IoT)",
+      "Fog computing",
+      "Edge computing",
+      "Cloud computing"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "Institute of Computing, University of Campinas, Brazil",
+      "School of Computer Science, University of Manchester, UK",
+      "Centre for Informatics and Systems, Department of Informatics Engineering, University of Coimbra, Portugal",
+      "CONNECT Centre, Trinity College Dublin, Ireland",
+      "The Aerospace Corporation, USA",
+      "School of Computer Science, Cardiff University, UK"
+    ],
+    "nature": [
+      "tutorial, discussion"
+    ],
+    "technologies": []
+  },
+  "7": {
+    "academic": true,
+    "citations": 7,
+    "countries": [
+      "Spain"
+    ],
+    "fields": [
+      "IoT",
+      "cloud computing",
+      "fog computing",
+      "fog-to-cloud computing",
+      "security",
+      "key distribution and authentication"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "Advanced Network Architectures Lab (CRAAX)",
+      "Universitat Politècnica de Catalunya (UPC), Spain",
+      "Cybersecurity Lab, Atos Spain"
+    ],
+    "nature": [
+      "framework",
+      "concept"
+    ],
+    "technologies": [
+      "distributed key management and authentication (DKMA) workflow"
+    ]
+  },
+  "8": {
+    "academic": true,
+    "citations": 6,
+    "countries": [
+      "USA"
+    ],
+    "fields": [
+      "Continuum computing",
+      "edge-to-cloud integration",
+      "data-driven workflows",
+      "streaming data-analytics",
+      "programming systems",
+      "data- driven workflows"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "Rutgers Discovery Informatics Institute (RDI2) at Rutgers University in New Jersey, USA"
+    ],
+    "nature": [
+      "casestudy",
+      "framework",
+      "concept"
+    ],
+    "technologies": [
+      "Associative Rendezvous (AR)",
+      "Chameleon cloud",
+      "Apache Kafka",
+      "Comet cloud"
+    ]
+  },
+  "9": {
+    "academic": false,
+    "citations": 3,
+    "countries": [
+      "Spain",
+      "Germany",
+      "United Kingdom",
+      "Italy",
+      "Slovenia",
+      "Switzerland",
+      "Ireland"
+    ],
+    "fields": [
+      "Cloud computing",
+      "Fog computing",
+      "IoT",
+      "resources management",
+      "Distributed architectures",
+      "mF2C"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": true,
+    "institutions": [
+      "Universitat Politècnica de Catalunya Vilanova i la Geltrú",
+      "Spain",
+      "Technical University of Braunschweig Braunschweig",
+      "Germany",
+      "STFC",
+      "United Kingdom",
+      "Engineering Sardegna Srl Cagliari",
+      "Italy",
+      "XLAB d.o.o. Ljubljana, Slovenia",
+      "Atos Research and Innovation Barcelona",
+      "Spain",
+      "SixSq, Geneve, Switzerland",
+      "Worldsensing Barcelona, Spain",
+      "Barcelona Supercomputing Center, Spain",
+      "Intel R&D Ireland"
+    ],
+    "nature": [
+      "platform"
+    ],
+    "technologies": [
+      "mF2C platform"
+    ]
+  },
+  "10": {
+    "academic": true,
+    "citations": 4,
+    "countries": [
+      "Italy"
+    ],
+    "fields": [
+      "Computing continuum",
+      "edge computing",
+      "fog computing",
+      "mobile computing",
+      "real-time systems",
+      "ops automation",
+      "Functions as a Service"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "Politecnico di Milano, Italy"
+    ],
+    "nature": [
+      "framework",
+      "casestudy"
+    ],
+    "technologies": [
+      "A3-E",
+      "Enorm",
+      "Java",
+      "JavaScript",
+      "Python",
+      "AWS Lambda"
+    ]
+  },
+  "11": {
+    "academic": true,
+    "citations": 4,
+    "countries": [
+      "Portugal"
+    ],
+    "fields": [
+      "Fog",
+      "Edge",
+      "Cloud",
+      "Simulator",
+      "Experimental evaluation"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "Centre for Informatics and Systems, Department of Informatics Engineering, University of Coimbra, Portugal"
+    ],
+    "nature": [
+      "analysis",
+      "discussion"
+    ],
+    "technologies": [
+      "iFogSim",
+      "CloudSimSDN",
+      "YAFS",
+      "EmuFog",
+      "FogTorchπ",
+      "EdgeCloudSim"
+    ]
+  },
+  "12": {
+    "academic": true,
+    "citations": 2,
+    "countries": [
+      "Slovenia",
+      "UK",
+      "Russia"
+    ],
+    "fields": [
+      "Cloud",
+      "Fog",
+      "Edge",
+      "storage",
+      "probabilistic decision making",
+      "containers"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "Faculty of Computer and Information Science, University of Ljubljana, Slovenia",
+      "Faculty of Civil and Geodetic Engineering University of Ljubljana, Slovenia",
+      "School of Computer Science University of Manchester Manchester, UK",
+      "Institute of Computer Science and Technology, Peter the Great St.Petersburg Polytechnic University St.Petersburg, Russia"
+    ],
+    "nature": [
+      "analysis",
+      "concept"
+    ],
+    "technologies": [
+      "Markov Decision Processes",
+      "Java",
+      "PRISM model-checking tool",
+      "Kubernetes",
+      "NoSQL Cassandra database",
+      "Analytic Hierarchy Process (AHP) method",
+      "Docker",
+      "Google Cloud Platform"
+    ]
+  },
+  "13": {
+    "academic": true,
+    "citations": 2,
+    "countries": [
+      "Brazil",
+      "Finland",
+      "Italy"
+    ],
+    "fields": [
+      "internet of things (IoT)",
+      "IoT architecture",
+      "IoT platform",
+      "fog computing",
+      "LoRaWAN",
+      "low power wide area network (LPWAN)",
+      "FIWARE",
+      "smart agriculture",
+      "smart cities"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "Federal University of the ABC, Center of Mathematics, Computing and Cognition, Santo André, Brazil",
+      "VTT Technical Research Centre of Finland, Oulu, Finland",
+      "Advanced Research Center on Electronic Systems “Ercole De Castro” (ARCES), University of Bologna, Italy"
+    ],
+    "nature": [
+      "architecture",
+      "concept"
+    ],
+    "technologies": [
+      "IoTecture",
+      "IoTinuum",
+      "FIWARE",
+      "LoRaWAN",
+      "Swamp",
+      "Docker",
+      "MQTT"
+    ]
+  },
+  "14": {
+    "academic": false,
+    "citations": 0,
+    "countries": [
+      "USA"
+    ],
+    "fields": [
+      "computing continuum"
+    ],
+    "format": "paper",
+    "independent": true,
+    "industry": true,
+    "institutions": [
+      "N/A"
+    ],
+    "nature": [
+      "analysis",
+      "tutorial",
+      "discussion"
+    ],
+    "technologies": [
+      "AWS Greengrass",
+      "Parsl",
+      "SCRIMP",
+      "funcX"
+    ]
+  },
+  "15": {
+    "academic": true,
+    "citations": 1,
+    "countries": [
+      "Brazil",
+      "Finland",
+      "Italy"
+    ],
+    "fields": [
+      "Internet of Things",
+      "Smart Water Management",
+      "IoT Computing Continuum",
+      "Security"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "Federal University of the ABC, Santo André/Brazil",
+      "VTT Technical Research Centre of Finland, Oulu/Finland",
+      "University of Bologna, Bologna/Italy"
+    ],
+    "nature": [
+      "casestudy",
+      "discussion"
+    ],
+    "technologies": [
+      "SWAMP System"
+    ]
+  },
+  "16": {
+    "academic": true,
+    "citations": 2,
+    "countries": [
+      "USA"
+    ],
+    "fields": [
+      "IOT",
+      "edge",
+      "Fog",
+      "Computing Continuum",
+      "programming the continuum "
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "University of Tennessee",
+      "Argonne National Laboratory",
+      "Indiana University Bloomington",
+      "University of Utah"
+    ],
+    "nature": [
+      "framework",
+      "concept"
+    ],
+    "technologies": [
+      "The Array of Things (AoT)",
+      "Twister2"
+    ]
+  },
+  "17": {
+    "academic": false,
+    "citations": 4,
+    "countries": [
+      "China",
+      "USA"
+    ],
+    "fields": [
+      "Cloud-to-thing",
+      "fog computing",
+      "optimization",
+      "scheduling"
+    ],
+    "format": "paper",
+    "independent": true,
+    "industry": true,
+    "institutions": [
+      "Nanjing Telecommunication Technology Research Institute, Nanjing, China",
+      "School of Computer Science and Technology, China University of Mining and Technology, Xuzhou, China",
+      "Department of Electrical and Computer Engineering, George Washington University, Washington, DC  USA"
+    ],
+    "nature": [
+      "concept"
+    ],
+    "technologies": []
+  },
+  "18": {
+    "academic": true,
+    "citations": 0,
+    "countries": [
+      "UK"
+    ],
+    "fields": [
+      "Software Defined Networking",
+      "Network Functions Virtualisation",
+      "Cloud-to-Fog continuum",
+      "edge computing",
+      "Next Generation Networking"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "School of Computing and Communications, Lancaster University, UK"
+    ],
+    "nature": [
+      "framework",
+      "platform",
+      "tutorial",
+      "concept"
+    ],
+    "technologies": [
+      "Tennison",
+      "Siren",
+      "OpenFlow",
+      "P4"
+    ]
+  },
+  "19": {
+    "academic": true,
+    "citations": 0,
+    "countries": [
+      "Spain"
+    ],
+    "fields": [
+      "IOT",
+      "fog computing,Fog-to-Cloud (F2C) continuum system ",
+      "cloud security"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "Universitat Politècnica de Catalunya, BarcelonaTech, Spain"
+    ],
+    "nature": [
+      "architecture"
+    ],
+    "technologies": [
+      "Control Area Unit(CAU)"
+    ]
+  },
+  "20": {
+    "academic": true,
+    "citations": 0,
+    "countries": [
+      "China"
+    ],
+    "fields": [
+      "fog computing",
+      "edge computing",
+      "load forecasting"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "Institute of Information Engineering",
+      "Chinese Academy of Sciences, Beijing, China",
+      "School of Cyber Security",
+      "University of Chinese Academy of Sciences"
+    ],
+    "nature": [
+      "framework"
+    ],
+    "technologies": [
+      "edge-fog-cloud continuum based smart grid",
+      "Oblivious Multivariate Polynomial Evaluation (OMPE) protocol"
+    ]
+  },
+  "21": {
+    "academic": true,
+    "citations": 1,
+    "countries": [
+      "India"
+    ],
+    "fields": [
+      "Distributed deep neural networks",
+      "Fog",
+      "Internet of things",
+      "Compression",
+      "Parallelization"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "Department of Computer Science and Engineering, National Institute of Technology Srinagar, Srinagar, India"
+    ],
+    "nature": [
+      "concept",
+      "analysis"
+    ],
+    "technologies": [
+      "FPGA devices"
+    ]
+  },
+  "22": {
+    "academic": true,
+    "citations": 6,
+    "countries": [
+      "Ireland",
+      "Brazil"
+    ],
+    "fields": [
+      "simulating cloud computing",
+      "simulating resource management",
+      "simulating resource provisioning",
+      "simulating resource scheduling",
+      "cloud-to-thing continuum",
+      "C2T",
+      "systematic review",
+      "cloud computing",
+      "edge computing",
+      "fog computing",
+      "simulation tools"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": false,
+    "institutions": [
+      "School of Computing, Dublin City University, Ireland",
+      "School of Computer Science and Statistics, Trinity College Dublin, Ireland",
+      "Caruaru Campus, Universidade de Pernambuco, Recife, Pernambuco , Brazil",
+      "Irish Institute of Digital Business, DCU Business School, Dublin City University, Ireland"
+    ],
+    "nature": [
+      "literature survey"
+    ],
+    "technologies": []
+  },
+  "23": {
+    "academic": false,
+    "citations": 0,
+    "countries": [
+      "Ireland",
+      "USA",
+      "Brazil"
+    ],
+    "fields": [
+      "IoT",
+      "IoT Reference Architecture",
+      "Cloud computing",
+      "Cloud architecture",
+      "Resource provisioning",
+      "Self-management",
+      "Self-organization",
+      "5G",
+      "Network function virtualisation",
+      "Radio access networks",
+      "Cloud radio access networks",
+      "Edge computing",
+      "Fog computing",
+      "Orchestration Management • Container orchestration • Orchestration tools",
+      "Orchestration standards",
+      "Orchestration challenges",
+      "Orchestration architectures",
+      "Edge AI",
+      "Privacy label",
+      "Trust label",
+      "Social contract theory",
+      "Information–Motivation–Skills Model",
+      "Research framework "
+    ],
+    "format": "book",
+    "independent": false,
+    "industry": true,
+    "institutions": [
+      "Irish Institute of Digital Business DCU Business School Dublin, Ireland",
+      "Graziadio Business School Pepperdine University Malibu, CA, USA",
+      "Software Research Institute Athlone Institute of Technology Dublin, Ireland",
+      "Irish Centre for Cloud Computing and Commerce",
+      "DCU Business School, Recife, Brazil"
+    ],
+    "nature": [
+      "book",
+      "architecture",
+      "framework"
+    ],
+    "technologies": [
+      "Docker Swarm",
+      "Kubernetes",
+      "Nebula Container Orchestrator",
+      "fog-specific orchestration architectures (e.g. SORTS, SOAFI, ETSI IGS MEC,CONCERT)"
+    ]
+  },
+  "24": {
+    "academic": false,
+    "citations": 0,
+    "countries": [
+      "Italy",
+      "Israel"
+    ],
+    "fields": [
+      "Green computing",
+      "Fog computing",
+      "IOT",
+      "computing continuum"
+    ],
+    "format": "paper",
+    "independent": false,
+    "industry": true,
+    "institutions": [
+      "Istituto Superiore Mario Boella (ISMB), Torino, Italy",
+      "Politecnico di Torino, Torino, Italy",
+      "STMicroelectronics, Milano, Italy",
+      "IBM Research, Haifa, Israel"
+    ],
+    "nature": [
+      "platform",
+      "framework"
+    ],
+    "technologies": [
+      "FPGA devices",
+      "software-defined networking (SDN) and network function virtualization (NFV)",
+      "Cyber-Physical Systems (CPS)"
+    ]
+  }
+}
+
+
+
+
+
