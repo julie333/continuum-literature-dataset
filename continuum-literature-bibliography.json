@@ -1,0 +1,463 @@
+{
+  "1": {
+    "author": "Costa, Cristiano and Kellermann, Felipe and Antunes, Rodolfo and Cavalheiro, Luciano and Yamin, Adenauer and Geyer, Claudio",
+    "booktitle": "2009 IEEE International Conference on Pervasive Computing and Communications",
+    "retrieved-from-doi": "https://doi.org/10.1109/PERCOM.2009.4912790",
+    "title": "Continuum: A service-based software infrastructure for ubiquitous computing",
+    "year": "2009"
+  },
+  "2": {
+    "author": "Di Carlo, Stefano and Vallero, Alessandro and Gizopoulos, Dimitris and Di Natale, Giorgio and Grasset, Arnaud and Mariani, Riccardo and Reichenbach, Frank",
+    "booktitle": "2014 17th Euromicro Conference on Digital System Design",
+    "retrieved-from-doi": "https://doi.org/10.1109/DSD.2014.65",
+    "title": "Cross-Layer Early Reliability Evaluation for the Computing cOntinuum",
+    "year": "2014"
+  },
+  "3": {
+    "author": "Chiang, Mung and Ha, Sangtae and Risso, Fulvio and Zhang, Tao and Chih-Lin, I.",
+    "journal": "IEEE Communications Magazine",
+    "retrieved-from-doi": "https://doi.org/10.1109/MCOM.2017.7901470",
+    "title": "Clarifying Fog Computing and Networking: 10 Questions and Answers",
+    "year": "2017"
+  },
+  "4": {
+    "author": "AbdelBaky, Moustafa and Zou, Mengsong and Zamani, Ali Reza and Renart, Eduard and Diaz-Montes, Javier and Parashar, Manish",
+    "booktitle": "2017 IEEE 37th International Conference on Distributed Computing Systems (ICDCS)",
+    "retrieved-from-doi": "https://doi.org/10.1109/ICDCS.2017.323",
+    "title": "Computing in the Continuum: Combining Pervasive Devices and Services to Support Data-Driven Applications",
+    "year": "2017"
+  },
+  "5": {
+    "author": "Fawcett, Lyndon and Broadbent, Matthew and Race, Nicholas",
+    "booktitle": "2018 IEEE Wireless Communications and Networking Conference Workshops (WCNCW)",
+    "retrieved-from-doi": "https://doi.org/10.1109/WCNCW.2018.8368994",
+    "title": "Siren: A platform for deploying virtual network services in the cloud to Fog continuum",
+    "year": "2018"
+  },
+  "6": {
+    "author": "Bittencourt, Luiz and Immich, Roger and Sakellariou, Rizos and Fonseca, Nelson and Madeira, Edmundo and Curado, Marilia and Villas, Leandro and DaSilva, Luiz and Lee, Craig and Rana, Omer",
+    "journal": "Internet of Things",
+    "retrieved-from-doi": "https://doi.org/10.1016/j.iot.2018.09.005",
+    "title": "The Internet of Things, Fog and Cloud continuum: Integration and challenges",
+    "year": "2018"
+  },
+  "7": {
+    "author": "Kahvazadeh, Sarang and Masip-Bruin, Xavi and Diaz, Rodrigo and Marin-Tordera, Eva and Jurnet, Alejandro and Garcia, Jordi",
+    "booktitle": "2018 3rd Cloudification of the Internet of Things (CIoT)",
+    "retrieved-from-doi": "https://doi.org/10.1109/CIOT.2018.8627111",
+    "title": "Towards An Efficient Key Management and Authentication Strategy for Combined Fog-to-Cloud Continuum Systems",
+    "year": "2018"
+  },
+  "8": {
+    "author": "Balouek-Thomert, Daniel and Renart, Eduard Gibert and Zamani, Ali Reza and Simonet, Anthony and Parashar, Manish",
+    "journal": "The International Journal of High Performance Computing Applications",
+    "retrieved-from-doi": "https://doi.org/10.1177/1094342019877383",
+    "title": "Towards a computing continuum: Enabling edge-to-cloud integration for data-driven workflows",
+    "year": "2019"
+  },
+  "9": {
+    "author": "Masip-Bruin, Xavi and Leckey, Alexander and Salis, Antonio and Guilhot, Denis and Cankar, Matic and Mar\u00edn-Tordera, Eva and Juan-Ferrer, Ana and Queralt, Anna and Jukan, Admela and Garcia, Jordi and et al.",
+    "booktitle": "Proceedings of the 4th ACM MobiHoc Workshop on Experiences with the Design and Implementation of Smart Objects - SMARTOBJECTS \u201918",
+    "retrieved-from-doi": "https://doi.org/10.1145/3213299.3213307",
+    "title": "mF2C",
+    "year": "2018"
+  },
+  "10": {
+    "author": "Baresi, L. and Mendon\u00e7a, D. F. and Garriga, M. and Guinea, S. and Quattrocchi, G.",
+    "journal": "ACM Transactions on Internet Technology",
+    "retrieved-from-doi": "https://doi.org/10.1145/3226644",
+    "title": "A Unified Model for the Mobile-Edge-Cloud Continuum",
+    "year": "2019"
+  },
+  "11": {
+    "author": "Perez Abreu, David and Velasquez, Karima and Curado, Marilia and Monteiro, Edmundo",
+    "journal": "Simulation Modelling Practice and Theory",
+    "retrieved-from-doi": "https://doi.org/10.1016/j.simpat.2019.102029",
+    "title": "A comparative analysis of simulators for the Cloud to Fog continuum",
+    "year": "2020"
+  },
+  "12": {
+    "author": "Kochovski, Petar and Sakellariou, Rizos and Bajec, Marko and Drobintsev, Pavel and Stankovski, Vlado",
+    "booktitle": "2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+    "retrieved-from-doi": "https://doi.org/10.1109/IPDPS.2019.00050",
+    "title": "An Architecture and Stochastic Method for Database Container Placement in the Edge-Fog-Cloud Continuum",
+    "year": "2019"
+  },
+  "13": {
+    "author": "Zyrianoff, Ivan and Heideker, Alexandre and Silva, Dener and Kleinschmidt, Jo\u00e3o and Soininen, Juha-Pekka and Salmon Cinotti, Tullio and Kamienski, Carlos",
+    "journal": "Sensors",
+    "retrieved-from-doi": "https://doi.org/10.3390/s20010084",
+    "title": "Architecting and Deploying IoT Smart Applications: A Performance\u2013Oriented Approach",
+    "year": "2019"
+  },
+  "14": {
+    "author": "Foster, Ian",
+    "booktitle": "2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+    "retrieved-from-doi": "https://doi.org/10.1109/IPDPS.2019.00011",
+    "title": "Coding the Continuum",
+    "year": "2019"
+  },
+  "15": {
+    "author": "Kleinschmidt, Joao H. and Kamienski, Carlos and Prati, Ronaldo C. and Kolehmainen, Kari and Aguzzi, Cristiano",
+    "booktitle": "2019 9th Latin-American Symposium on Dependable Computing (LADC)",
+    "retrieved-from-doi": "https://doi.org/10.1109/LADC48089.2019.8995724",
+    "title": "End-to-End Security in the IoT Computing Continuum: Perspectives in the SWAMP Project",
+    "year": "2019"
+  },
+  "16": {
+    "author": "Beckman, Pete and Dongarra, Jack and Ferrier, Nicola and Fox, Geoffrey and Moore, Terry and Reed, Dan and Beck, Micah",
+    "retrieved-from-doi": "https://doi.org/10.1002/9781119551713.ch7",
+    "title": "Harnessing the Computing Continuum for Programming Our World",
+    "year": "2020"
+  },
+  "17": {
+    "author": "Wei, Xianglin and Tang, Chaogang and Fan, Jianhua and Subramaniam, Suresh",
+    "journal": "IEEE Internet of Things Journal",
+    "retrieved-from-doi": "https://doi.org/10.1109/JIOT.2019.2906287",
+    "title": "Joint Optimization of Energy Consumption and Delay in Cloud-to-Thing Continuum",
+    "year": "2019"
+  },
+  "19": {
+    "author": "Hou, Shiming and Li, Hongjia and Yang, Chang and Wang, Liming",
+    "booktitle": "2020 IEEE Wireless Communications and Networking Conference (WCNC)",
+    "retrieved-from-doi": "https://doi.org/10.1109/WCNC45663.2020.9120680",
+    "title": "A New Privacy-Preserving Framework based on Edge-Fog-Cloud Continuum for Load Forecasting",
+    "year": "2020"
+  },
+  "20": {
+    "author": "Nazir, Azra and Mir, Roohie Naaz and Qureshi, Shaima",
+    "journal": "International Journal of Intelligent Computing and Cybernetics",
+    "retrieved-from-doi": "https://doi.org/10.1108/IJICC-04-2020-0038",
+    "title": "Exploring compression and parallelization techniques for distribution of deep neural networks over Edge\u2013Fog continuum \u2013 a review",
+    "year": "2020"
+  },
+  "21": {
+    "author": "Bendechache, Malika and Svorobej, Sergej and Takako Endo, Patricia and Lynn, Theo",
+    "journal": "Future Internet",
+    "retrieved-from-doi": "https://doi.org/10.3390/fi12060095",
+    "title": "Simulating Resource Management across the Cloud-to-Thing Continuum: A Survey and Future Directions",
+    "year": "2020"
+  },
+  "22": {
+    "author": "Scionti, A. and Terzo, O. and Ruiu, P. and Giordanengo, G. and Ciccia, S. and Urlini, G. and Nider, J. and Rapoport, M. and Petrie, C. and Chamberlain, R. and et al.",
+    "booktitle": "Hardware Accelerators in Data Centers",
+    "retrieved-from-doi": "https://doi.org/10.1007/978-3-319-92792-3_4",
+    "title": "The Green Computing Continuum: The OPERA Perspective",
+    "year": "2018"
+  },
+  "23": {
+    "author": "Theo Lynn, John G. Mooney, Brian Lee, Patricia Takako Endo",
+    "booktitle": "The Cloud-to-Thing Continuum",
+    "retrieved-from-doi": "https://doi.org/10.1007/978-3-030-41110-7",
+    "title": "Opportunities and Challenges in Cloud, Fog and Edge Computing",
+    "year": "2020"
+  },
+  "24": {
+    "author": "Lyndon Fawcett",
+    "journal": "Lancaster University",
+    "retrieved-from-doi": "https://doi.org/10.17635/lancaster/thesis/723",
+    "title": "Scalable and responsive SDN monitoring and remediation for the Cloud-to-Fog continuum",
+    "year": "2019"
+  },
+  "25": {
+    "author": "Balouek-Thomert, Daniel and Rodero, Ivan and Parashar, Manish",
+    "journal": "ACM SIGMETRICS Performance Evaluation Review",
+    "retrieved-from-doi": "https://doi.org/10.1145/3439602.3439618",
+    "title": "Harnessing the Computing Continuum for Urgent Science",
+    "year": "2020"
+  },
+  "26": {
+    "author": "Rosendo, Daniel and Silva, Pedro and Simonin, Matthieu and Costan, Alexandru and Antoniu, Gabriel",
+    "booktitle": "2020 IEEE International Conference on Cluster Computing (CLUSTER)",
+    "retrieved-from-doi": "https://doi.org/10.1109/CLUSTER49012.2020.00028",
+    "title": "E2Clab: Exploring the Computing Continuum through Repeatable, Replicable and Reproducible Edge-to-Cloud Experiments",
+    "year": "2020"
+  },
+  "27": {
+    "author": "Ayed, Dhouha and Jaho, Eva and Lachner, Clemens and Mann, Zolt\u00e1n \u00c1d\u00e1m and Seidl, Robert and Surridge, Mike",
+    "booktitle": "Advances in Service-Oriented and Cloud Computing",
+    "retrieved-from-doi": "https://doi.org/10.1007/978-3-030-71906-7_17",
+    "title": "FogProtect: Protecting Sensitive Data in the Computing Continuum",
+    "year": "2021"
+  },
+  "28": {
+    "author": "Aguiari, Davide and Ferlini, Andrea and Cao, Jiannong and Guo, Song and Pau, Giovanni",
+    "booktitle": "IEEE INFOCOM 2019 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)",
+    "retrieved-from-doi": "https://doi.org/10.1109/INFCOMW.2019.8845170",
+    "title": "Poster Abstract: C-Continuum: Edge-to-Cloud computing for distributed AI",
+    "year": "2019"
+  },
+  "29": {
+    "author": "Makitalo, Niko and Ometov, Aleksandr and Kannisto, Joona and Andreev, Sergey and Koucheryavy, Yevgeni and Mikkonen, Tommi",
+    "journal": "IEEE Software",
+    "retrieved-from-doi": "https://doi.org/10.1109/MS.2017.4541037",
+    "title": "Safe, Secure Executions at the Network Edge: Coordinating Cloud, Edge, and Fog Computing",
+    "year": "2018"
+  },
+  "30": {
+    "author": "Baccarelli, Enzo and Scarpiniti, Michele and Momenzadeh, Alireza and Ahrabi, Sima Sarv",
+    "journal": "IEEE Access",
+    "retrieved-from-doi": "https://doi.org/10.1109/ACCESS.2021.3058021",
+    "title": "Learning-in-the-Fog (LiFo): Deep Learning Meets Fog Computing for the Minimum-Energy Distributed Early-Exit of Inference in Delay-Critical IoT Realms",
+    "year": "2021"
+  },
+  "31": {
+    "author": "Bai, Wenle and Ma, Ziyang and Han, Yulong and Wu, Menglong and Zhao, Zhongyuan and Li, Mengkun and Wang, Chengcai",
+    "journal": "IEEE Access",
+    "retrieved-from-doi": "https://doi.org/10.1109/ACCESS.2021.3067702",
+    "title": "Joint Optimization of Computation Offloading, Data Compression, Energy Harvesting, and Application Scenarios in Fog Computing",
+    "year": "2021"
+  },
+  "32": {
+    "author": "Barzegaran, Mohammadreza and Pop, Paul",
+    "journal": "IEEE Access",
+    "retrieved-from-doi": "https://doi.org/10.1109/ACCESS.2021.3069142",
+    "title": "Communication Scheduling for Control Performance in TSN-based Fog Computing Platforms",
+    "year": "2021"
+  },
+  "33": {
+    "author": "Zhang, Xingjun and Si, Wei",
+    "journal": "IEEE Access",
+    "retrieved-from-doi": "https://doi.org/10.1109/ACCESS.2020.2971630",
+    "title": "Efficient Auditing Scheme for Secure Data Storage in Fog-to-Cloud Computing",
+    "year": "2021"
+  },
+  "34": {
+    "author": "Abbasi, M. and Mohammadi-Pasand, E. and Khosravi, M.R.",
+    "journal": "Computer Communications",
+    "retrieved-from-doi": "https://doi.org/10.1016/j.comcom.2021.01.022",
+    "title": "Intelligent workload allocation in IoT\u2013Fog\u2013cloud architecture towards mobile edge computing",
+    "year": "2021"
+  },
+  "35": {
+    "author": "Chen, Xincheng and Zhou, Yuchen and Yang, Long and Lv, Lu",
+    "journal": "Computer Communications",
+    "retrieved-from-doi": "https://doi.org/10.1016/j.comcom.2021.01.026",
+    "title": "Hybrid fog/cloud computing resource allocation: Joint consideration of limited communication resources and user credibility",
+    "year": "2021"
+  },
+  "36": {
+    "author": "Barolli, Leonard and Hussain, Farookh and Takizawa, Makoto",
+    "journal": "Computing",
+    "retrieved-from-doi": "https://doi.org/10.1007/s00607-020-00892-9",
+    "title": "Special issue on intelligent Edge, Fog, Cloud and Internet of Things (IoT)-based services",
+    "year": "2021"
+  },
+  "37": {
+    "author": "Mann, Zolt\u00e1n \u00c1d\u00e1m",
+    "journal": "Computing",
+    "retrieved-from-doi": "https://doi.org/10.1007/s00607-020-00848-z",
+    "title": "Notions of architecture in fog computing",
+    "year": "2020"
+  },
+  "38": {
+    "author": "Mendon\u00e7a Junior, Francisco Ferreira and Lopes Dias, Kelvin and d\u2019 Orey, Pedro M. and Kokkinogenis, Zafeiris",
+    "journal": "Transactions on Emerging Telecommunications Technologies",
+    "retrieved-from-doi": "https://doi.org/10.1002/ett.4145",
+    "title": "FogWise: On the limits of the coexistence of heterogeneous applications on Fog computing and Internet of Vehicles",
+    "year": "2020"
+  },
+  "39": {
+    "author": "Phan, Linh-An and Nguyen, Duc-Thang and Lee, Meonghun and Park, Dae-Heon and Kim, Taehong",
+    "journal": "Future Generation Computer Systems",
+    "retrieved-from-doi": "https://doi.org/10.1016/j.future.2020.12.021",
+    "title": "Dynamic fog-to-fog offloading in SDN-based fog computing systems",
+    "year": "2021"
+  },
+  "40": {
+    "author": "Sarwar, Kinza and Yongchareon, Sira and Yu, Jian and ur Rehman, Saeed",
+    "journal": "Future Generation Computer Systems",
+    "retrieved-from-doi": "https://doi.org/10.1016/j.future.2021.02.013",
+    "title": "Lightweight, Divide-and-Conquer privacy-preserving data aggregation in fog computing",
+    "year": "2021"
+  },
+  "41": {
+    "author": "Srirama, Satish Narayana and Dick, Freddy Marcelo Surriabre and Adhikari, Mainak",
+    "journal": "Future Generation Computer Systems",
+    "retrieved-from-doi": "https://doi.org/10.1016/j.future.2020.12.011",
+    "title": "Akka framework based on the Actor model for executing distributed Fog Computing applications",
+    "year": "2021"
+  },
+  "42": {
+    "author": "Abreha, Haftay Gebreslasie and Bernardos, Carlos J. and Oliva, Antonio De La and Cominardi, Luca and Azcorra, Arturo",
+    "journal": "International Journal of Ad Hoc and Ubiquitous Computing",
+    "retrieved-from-doi": "https://doi.org/10.1504/IJAHUC.2021.113384",
+    "title": "Monitoring in fog computing: state-of-the-art and research challenges",
+    "year": "2021"
+  },
+  "43": {
+    "author": "Ahammad, Ishtiaq and Khan, Md. Ashikur Rahman and Salehin, Zayed Us and Uddin, Main and Soheli, Sultana Jahan",
+    "journal": "International Journal of Cloud Applications and Computing",
+    "retrieved-from-doi": "https://doi.org/10.4018/IJCAC.2021040104",
+    "title": "Improvement of QoS in an IoT Ecosystem by Integrating Fog Computing and SDN",
+    "year": "2021"
+  },
+  "44": {
+    "author": "Hallappanavar, Vijay Lingaraddi and Birje, Mahantesh N.",
+    "journal": "International Journal of Cloud Applications and Computing",
+    "retrieved-from-doi": "https://doi.org/10.4018/IJCAC.2021010101",
+    "title": "A Reliable Trust Computing Mechanism in Fog Computing",
+    "year": "2021"
+  },
+  "45": {
+    "author": "Khalid, Tauqeer and Abbasi, Muhammad Abbas Khan and Zuraiz, Maria and Khan, Abdul Nasir and Ali, Mazhar and Ahmad, Raja Wasim and Rodrigues, Joel J.P.C. and Aslam, Mudassar",
+    "journal": "International Journal of Communication Systems",
+    "retrieved-from-doi": "https://doi.org/10.1002/dac.4181",
+    "title": "A survey on privacy and access control schemes in fog computing",
+    "year": "2019"
+  },
+  "46": {
+    "author": "Jiang, Chun and Wan, Jiafu",
+    "journal": "IEEE Access",
+    "retrieved-from-doi": "https://doi.org/10.1109/ACCESS.2021.3050238",
+    "title": "A Thing-Edge-Cloud Collaborative Computing Decision-Making Method for Personalized Customization Production",
+    "year": "2021"
+  },
+  "47": {
+    "author": "Hu, Sensen and Huang, Shan and Huang, Jing and Su, Jiafu",
+    "journal": "Computers & Industrial Engineering",
+    "retrieved-from-doi": "https://doi.org/10.1016/j.cie.2020.107079",
+    "title": "Blockchain and edge computing technology enabling organic agricultural supply chain: A framework solution to trust crisis",
+    "year": "2021"
+  },
+  "48": {
+    "author": "Yang, Weiyong and Liu, Wei and Wei, Xingshen and Guo, Zixin and Yang, Kangle and Huang, Hao and Qi, Longyun",
+    "journal": "Frontiers of Information Technology & Electronic Engineering",
+    "retrieved-from-doi": "https://doi.org/10.1631/FITEE.1900636",
+    "title": "EdgeKeeper: a trusted edge computing framework for ubiquitous power Internet of Things",
+    "year": "2021"
+  },
+  "49": {
+    "author": "Garg, Deepak and Sidhu, Jagpreet and Rani, Shalli",
+    "journal": "International Journal of Ad Hoc and Ubiquitous Computing",
+    "retrieved-from-doi": "https://doi.org/10.1504/IJAHUC.2020.106644",
+    "title": "A note on cloud computing security",
+    "year": "2020"
+  },
+  "50": {
+    "author": "Shahriar Maswood, Mirza Mohd and Rahman, MD. Rahinur and Alharbi, Abdullah G. and Medhi, Deep",
+    "journal": "IEEE Access",
+    "retrieved-from-doi": "https://doi.org/10.1109/ACCESS.2020.3003263",
+    "title": "A Novel Strategy to Achieve Bandwidth Cost Reduction and Load Balancing in a Cooperative Three-Layer Fog-Cloud Computing Environment",
+    "year": "2020"
+  },
+  "51": {
+    "author": "Aburukba, Raafat O. and AliKarrar, Mazin and Landolsi, Taha and El-Fakih, Khaled",
+    "journal": "Future Generation Computer Systems",
+    "retrieved-from-doi": "https://doi.org/10.1016/j.future.2019.09.039",
+    "title": "Scheduling Internet of Things requests to minimize latency in hybrid Fog\u2013Cloud\u200b computing",
+    "year": "2020"
+  },
+  "52": {
+    "author": "Tian, Jun-Feng and Wang, Hao-Ning",
+    "journal": "International Journal of Distributed Sensor Networks",
+    "retrieved-from-doi": "https://doi.org/10.1177/1550147720916623",
+    "title": "An efficient and secure data auditing scheme based on fog-to-cloud computing for Internet of things scenarios",
+    "year": "2020"
+  },
+  "53": {
+    "author": "Aslanpour, Mohammad S. and Gill, Sukhpal Singh and Toosi, Adel N.",
+    "journal": "Internet of Things",
+    "retrieved-from-doi": "https://doi.org/10.1016/j.iot.2020.100273",
+    "title": "Performance evaluation metrics for cloud, fog and edge computing: A review, taxonomy, benchmarks and standards for future research",
+    "year": "2020"
+  },
+  "54": {
+    "author": "Goethals, Tom and De Turck, Filip and Volckaert, Bruno",
+    "journal": "Journal of Cloud Computing",
+    "retrieved-from-doi": "https://doi.org/10.1186/s13677-020-00180-z",
+    "title": "Near real-time optimization of fog service placement for responsive edge computing",
+    "year": "2020"
+  },
+  "55": {
+    "author": "Wang, Tongchen and Liu, Jianwei and Li, Dawei and Wu, Qianhong",
+    "booktitle": "Lecture Notes in Computer Science",
+    "retrieved-from-doi": "https://doi.org/10.1007/978-3-030-55304-3_15",
+    "title": "A Blockchain-Based Resource Supervision Scheme for Edge Devices Under Cloud-Fog-End Computing Models",
+    "year": "2020"
+  },
+  "56": {
+    "author": "Raza, Muhammad Raheel and Varol, Asaf and Varol, Nurhayat",
+    "booktitle": "2020 8th International Symposium on Digital Forensics and Security (ISDFS)",
+    "retrieved-from-doi": "https://doi.org/10.1109/ISDFS49300.2020.9116360",
+    "title": "Cloud and Fog Computing: A Survey to the Concept and Challenges",
+    "year": "2020"
+  },
+  "57": {
+    "author": "Kumar, Neeraj and Dhand, Tanya and Jindal, Anish and Aujla, Gagangeet Singh and Cao, Haotong and Yang, Longxiang",
+    "booktitle": "2020 IEEE 21st International Symposium on \u201cA World of Wireless, Mobile and Multimedia Networks\u201d (WoWMoM)",
+    "retrieved-from-doi": "https://doi.org/10.1109/WoWMoM49955.2020.00066",
+    "title": "An Edge-Fog Computing Framework for Cloud of Things in Vehicle to Grid Environment",
+    "year": "2020"
+  },
+  "58": {
+    "author": "Chertchom, Prajak and Tanimoto, Shigeaki and Konosu, Tsutomu and Iwashita, Motoi and Kobayashi, Toru and Sato, Hiroyuki and Kanai, Atsushi",
+    "booktitle": "2019 8th International Congress on Advanced Applied Informatics (IIAI-AAI)",
+    "retrieved-from-doi": "https://doi.org/10.1109/IIAI-AAI.2019.00179",
+    "title": "Data Management Portfolio for Improvement of Privacy in Fog-to-cloud Computing Systems",
+    "year": "2019"
+  },
+  "59": {
+    "author": "IDRISSI, Mohammed EL and ELBEQQALI, Omar and RIFFI, Jamal",
+    "booktitle": "2019 IEEE International Smart Cities Conference (ISC2)",
+    "retrieved-from-doi": "https://doi.org/10.1109/ISC246665.2019.9071674",
+    "title": "From cloud computing to fog computing: two technologies to serve iot\u2013a review-",
+    "year": "2019"
+  },
+  "60": {
+    "author": "Toosi, Adel Nadjaran and Mahmud, Redowan and Chi, Qinghua and Buyya, Rajkumar",
+    "booktitle": "Fog and Edge Computing",
+    "retrieved-from-doi": "https://doi.org/10.1002/9781119525080.ch4",
+    "title": "Management and Orchestration of Network Slices in 5G, Fog, Edge, and Clouds",
+    "year": "2019"
+  },
+  "61": {
+    "author": "Riccardo Mancini, Shreshth Tuli, Tommaso Cucinotta, Rajkumar Buyya",
+    "journal": "arXiv/CoRR",
+    "retrieved-from-arxiv": "http://arxiv.org/abs/1911.08413",
+    "title": "iGateLink: A Gateway Library for Linking IoT, Edge, Fog and Cloud Computing Environments",
+    "year": "2019"
+  },
+  "62": {
+    "author": "Varghese, Blesson and Reano, Carlos and Silla, Federico",
+    "journal": "IEEE Cloud Computing",
+    "retrieved-from-doi": "https://doi.org/10.1109/MCC.2018.064181118",
+    "title": "Accelerator Virtualization in Fog Computing: Moving from the Cloud to the Edge",
+    "year": "2018"
+  },
+  "63": {
+    "author": "Taherizadeh, Salman and Stankovski, Vlado and Grobelnik, Marko",
+    "journal": "Sensors",
+    "retrieved-from-doi": "https://doi.org/10.3390/s18092938",
+    "title": "A Capillary Computing Architecture for Dynamic Internet of Things: Orchestration of Microservices from Edge Devices to Fog and Cloud Providers",
+    "year": "2018"
+  },
+  "64": {
+    "author": "Matrouk, Khaled and Alatoun, Kholoud",
+    "journal": "International Journal of Networked and Distributed Computing",
+    "retrieved-from-doi": "https://doi.org/10.2991/ijndc.k.210111.001",
+    "title": "Scheduling Algorithms in Fog Computing: A Survey",
+    "year": "2021"
+  },
+  "65": {
+    "author": "Ali, Babar and Adeel Pasha, Muhammad and Islam, Saif ul and Song, Houbing and Buyya, Rajkumar",
+    "journal": "IEEE Internet of Things Journal",
+    "retrieved-from-doi": "https://doi.org/10.1109/JIOT.2020.3024823",
+    "title": "A Volunteer-Supported Fog Computing Environment for Delay-Sensitive IoT Applications",
+    "year": "2021"
+  },
+  "66": {
+    "author": "Badidi, Elarbi",
+    "journal": "Journal of Ubiquitous Systems & Pervasive Networks",
+    "retrieved-from-doi": "https://doi.org/10.5383/JUSPN.13.01.002",
+    "title": "QoS-Aware Placement of Tasks on a Fog Cluster in an Edge Computing Environment",
+    "year": "2020"
+  },
+  "67": {
+    "author": "Huong, Truong Thu and Bac, Ta Phuong and Long, Dao M. and Thang, Bui D. and Binh, Nguyen T. and Luong, Tran D. and Phuc, Tran Kim",
+    "journal": "IEEE Access",
+    "retrieved-from-doi": "https://doi.org/10.1109/ACCESS.2021.3058528",
+    "title": "LocKedge: Low-Complexity Cyberattack Detection in IoT Edge Computing",
+    "year": "2021"
+  }
+}
