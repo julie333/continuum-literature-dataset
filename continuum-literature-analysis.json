@@ -18,9 +18,7 @@
     "independent": false,
     "industry": false,
     "institutions": [
-      "Instituto de Informática",
-      "Universidade Federal do Rio Grande do Sul (UFRGS)",
-      "Porto Alegre, Brazil",
+      "Instituto de Informática, Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, Brazil",
       "Instituto de Informática, Universidade do Vale do Rio dos Sinos (UNISINOS), São Leopoldo, Brazil",
       "Escola de Informática, Universidade Católica de Pelotas (UCPEL), Pelotas, Brazil"
     ],
@@ -69,9 +67,7 @@
   "3": {
     "academic": false,
     "citations": 31,
-    "countries": [
-      "na"
-    ],
+    "countries": [],
     "fields": [
       "fog computing, edge computIng"
     ],
@@ -131,7 +127,7 @@
       "network services/security"
     ],
     "format": "paper",
-    "independent": false,
+    "independent": true,
     "industry": false,
     "institutions": [
       "School of Computing and Communications, Lancaster University, UK"
@@ -148,7 +144,7 @@
     ]
   },
   "6": {
-    "academic": true,
+    "academic": false,
     "citations": 13,
     "countries": [
       "Brazil",
@@ -164,8 +160,8 @@
       "Cloud computing"
     ],
     "format": "paper",
-    "independent": false,
-    "industry": false,
+    "independent": true,
+    "industry": true,
     "institutions": [
       "Institute of Computing, University of Campinas, Brazil",
       "School of Computer Science, University of Manchester, UK",
@@ -180,7 +176,7 @@
     "technologies": []
   },
   "7": {
-    "academic": true,
+    "academic": false,
     "citations": 7,
     "countries": [
       "Spain"
@@ -194,8 +190,8 @@
       "key distribution and authentication"
     ],
     "format": "paper",
-    "independent": false,
-    "industry": false,
+    "independent": true,
+    "industry": true,
     "institutions": [
       "Advanced Network Architectures Lab (CRAAX)",
       "Universitat Politècnica de Catalunya (UPC), Spain",
@@ -224,7 +220,7 @@
       "data- driven workflows"
     ],
     "format": "paper",
-    "independent": false,
+    "independent": true,
     "industry": false,
     "institutions": [
       "Rutgers Discovery Informatics Institute (RDI2) at Rutgers University in New Jersey, USA"
@@ -265,17 +261,12 @@
     "independent": false,
     "industry": true,
     "institutions": [
-      "Universitat Politècnica de Catalunya Vilanova i la Geltrú",
-      "Spain",
-      "Technical University of Braunschweig Braunschweig",
-      "Germany",
-      "STFC",
-      "United Kingdom",
-      "Engineering Sardegna Srl Cagliari",
-      "Italy",
+      "Universitat Politècnica de Catalunya Vilanova i la Geltrú, Spain",
+      "Technical University of Braunschweig, Germany",
+      "STFC, United Kingdom",
+      "Engineering Sardegna Srl Cagliari, Italy",
       "XLAB d.o.o. Ljubljana, Slovenia",
-      "Atos Research and Innovation Barcelona",
-      "Spain",
+      "Atos Research and Innovation Barcelona, Spain",
       "SixSq, Geneve, Switzerland",
       "Worldsensing Barcelona, Spain",
       "Barcelona Supercomputing Center, Spain",
@@ -316,8 +307,6 @@
     "technologies": [
       "A3-E",
       "Enorm",
-      "Java",
-      "JavaScript",
       "Python",
       "AWS Lambda"
     ]
@@ -336,7 +325,7 @@
       "Experimental evaluation"
     ],
     "format": "paper",
-    "independent": false,
+    "independent": true,
     "industry": false,
     "institutions": [
       "Centre for Informatics and Systems, Department of Informatics Engineering, University of Coimbra, Portugal"
@@ -414,7 +403,7 @@
       "smart cities"
     ],
     "format": "paper",
-    "independent": false,
+    "independent": true,
     "industry": false,
     "institutions": [
       "Federal University of the ABC, Center of Mathematics, Computing and Cognition, Santo André, Brazil",
@@ -445,7 +434,7 @@
       "computing continuum"
     ],
     "format": "paper",
-    "independent": true,
+    "independent": false,
     "industry": true,
     "institutions": [
       "N/A"
@@ -620,10 +609,8 @@
     "independent": false,
     "industry": false,
     "institutions": [
-      "Institute of Information Engineering",
-      "Chinese Academy of Sciences, Beijing, China",
-      "School of Cyber Security",
-      "University of Chinese Academy of Sciences"
+      "Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China",
+      "School of Cyber Security, University of Chinese Academy of Sciences"
     ],
     "nature": [
       "framework"
@@ -647,7 +634,7 @@
       "Parallelization"
     ],
     "format": "paper",
-    "independent": false,
+    "independent": true,
     "industry": false,
     "institutions": [
       "Department of Computer Science and Engineering, National Institute of Technology Srinagar, Srinagar, India"
@@ -681,7 +668,7 @@
       "simulation tools"
     ],
     "format": "paper",
-    "independent": false,
+    "independent": true,
     "industry": false,
     "institutions": [
       "School of Computing, Dublin City University, Ireland",
@@ -782,8 +769,3 @@
     ]
   }
 }
-
-
-
-
-
