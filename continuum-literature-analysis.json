@@ -111,8 +111,7 @@
       "Apache Kafka",
       "Apache Storm",
       "CometCloud autonomic framework",
-      "OpenFlow",
-      "SDN Router"
+      "OpenFlow"
     ]
   },
   "5": {
@@ -137,10 +136,7 @@
     ],
     "technologies": [
       "Siren",
-      "OpenFlow",
-      "Snort",
-      "PiHole",
-      "NGINX"
+      "OpenFlow"
     ]
   },
   "6": {
@@ -276,7 +272,7 @@
       "platform"
     ],
     "technologies": [
-      "mF2C platform"
+      "mF2C system"
     ]
   },
   "10": {
@@ -306,9 +302,7 @@
     ],
     "technologies": [
       "A3-E",
-      "Enorm",
-      "Python",
-      "AWS Lambda"
+      "Enorm"
     ]
   },
   "11": {
@@ -763,7 +757,8 @@
     ],
     "technologies": [
       "FPGA devices",
-      "software-defined networking (SDN) and network function virtualization (NFV)",
+      "software-defined networking (SDN)",
+      "network function virtualization (NFV)",
       "Cyber-Physical Systems (CPS)"
     ]
   }
