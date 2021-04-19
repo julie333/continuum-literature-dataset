@@ -374,7 +374,6 @@
     ],
     "technologies": [
       "Markov Decision Processes",
-      "Java",
       "PRISM model-checking tool",
       "Kubernetes",
       "NoSQL Cassandra database",
@@ -769,3 +768,4 @@
     ]
   }
 }
+
